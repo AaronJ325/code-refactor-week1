@@ -1,0 +1,1 @@
+This week's task was to edit some code so that it would be more accessible and just all around a better looking website for this company.
